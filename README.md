@@ -1,0 +1,2 @@
+# Expression-Converter-And-Evaluator
+Any mathematical expression can be expressed in infix, post-fix and pre-fix formats. This application is a universal expression convertor implemented in C using stack data structure. This structure will take input of input expression and conversion option from the user and provide the output in the desired format. The goal of this application is to handle various mathematical operations by converting given expression.
